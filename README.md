@@ -1,4 +1,4 @@
-# Notepad
+# Note-taking CLI Application
 A Java console program to create and manage notes/checklists for multiple users
 
 + Main menu:  
